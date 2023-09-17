@@ -1,0 +1,19 @@
+description: Construction of the module is optimized for most quad operational apmlifier
+  in DIL14 package.
+github_branch: OZquad01A
+github_description: Construction of the module is optimized for most quad operational
+  apmlifier in DIL14 package.
+github_repo: OZquad01
+github_url: https://github.com/mlab-modules/OZquad01
+homepage: false
+images:
+- doc/img/P1020108.jpg
+- doc/img/OZquad01A_QRcode.png
+- doc/img/schema2.png
+- doc/img/schema1.png
+- doc/img/pinout.png
+mark: 50
+status: 0
+tags: []
+title: OZquad01
+updated: '2023-09-17T11:34:47.534961+00:00'
